@@ -1,4 +1,8 @@
 one
 two
+<<<<<<< HEAD
 ready?
+will this work?
+=======
+>>>>>>> ccaf79210da1c20d932c1bf2c3bdc76405504c9c
 go
